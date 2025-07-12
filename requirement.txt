@@ -1,0 +1,11 @@
+pandas
+python-csv
+networkx
+numpy
+matplotlib
+norm
+community
+random2
+pytest
+scipy
+python-louvain
