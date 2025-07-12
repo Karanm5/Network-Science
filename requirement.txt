@@ -9,3 +9,4 @@ random2
 pytest
 scipy
 python-louvain
+black[jupyter]
