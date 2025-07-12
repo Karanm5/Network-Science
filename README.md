@@ -1,0 +1,1 @@
+[![Network Science application with github action](https://github.com/Karanm5/Network-Science/actions/workflows/main.yml/badge.svg)](https://github.com/Karanm5/Network-Science/actions/workflows/main.yml)
